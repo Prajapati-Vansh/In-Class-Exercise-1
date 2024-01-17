@@ -10,6 +10,7 @@ public class studentList {
         Student studentList = new Student[3];
         
         studentList[0] = s1;
+        System.out.println("Third Commoit");
         studentList[1] = new Student(2,"abc");
         studentList[1] = new Student(3,"xyz");
         
