@@ -1,7 +1,7 @@
 package arraydemo;
 
 /**
- *
+ *Third commit
  * @author vsp31
  */
 public class studentList {
@@ -11,6 +11,7 @@ public class studentList {
         
         studentList[0] = s1;
         System.out.println("Third Commoit");
+        
         studentList[1] = new Student(2,"abc");
         studentList[1] = new Student(3,"xyz");
         
