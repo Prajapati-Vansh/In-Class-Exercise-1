@@ -1,12 +1,17 @@
 package arraydemo;
 
 /**
- *Commenting for modification on Jan 17 at 9:48 AM
+ *
  * @author vsp31
  */
-public class Student {
+    public class Student {
     private int sId;
     private String sName;
+
+    public Student(int sId, String sName) {
+        this.sId = sId;
+        this.sName = sName;
+    }
 
     public int getsId() {
         return sId;
