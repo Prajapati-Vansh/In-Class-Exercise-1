@@ -89,6 +89,7 @@ public class CardTrick {
 
         // Add your personal information here
         System.out.println("My name is Vansh Prajapati, and I'm the author of this program.");
+        System.out.println("I am student at Sheridan College, enrolled in Computer Programming.");
         System.out.println("I enjoy reading and travelling and aspire to Software Engineer.");
 
         System.out.println();
